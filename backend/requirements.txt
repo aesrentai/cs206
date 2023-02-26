@@ -1,0 +1,4 @@
+langchain==0.0.74
+openai==0.26.4
+flask==2.2.3
+flask-cors==3.0.10
